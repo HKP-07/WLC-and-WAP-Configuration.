@@ -1,0 +1,7 @@
+Authentication Details
+
+Authentication of WLC with Admin system with https:/10.0.0.11
+
+Username:- WLC
+Password:- 123.Com
+
